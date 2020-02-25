@@ -5,7 +5,7 @@ Special symbols have been inserted in the aligned sentences to mark subtitle bre
 - \<eob\>: block break (breaks between subtitle blocks)
 - \<eol\>: line breaks (breaks between lines inside the same subtitle block)
 
-Release v1.0: 7 language pairs
+Release v1.0: 7 language pairs.
 English to-{Dutch,French,German,Italian,Portuguese,Romanian,Spanish}
 
 ## Structure
@@ -21,6 +21,26 @@ The audio segments can be obtained from MuST-C. The same number of sentences has
 - MuST\_Cinema.pdf: LREC 2020 paper
 - README.md: Description of the corpus
 
+## Reference paper
+
+If you use MuST-Cinema in your work, please cite the following paper:
+
+Alina Karakanta, Matteo Negri and Marco Turchi.
+“MuST-Cinema: a Speech-to-Subtitles Corpus”
+In *Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020)*, Marseille, France, May 13-15 2020.
+
+ 
+
+bibtex:
+```
+@InProceedings{mustcinema20,
+author = “Karakanta, Alina and Negri, Matteo and Turchi, Marco”,
+title = “{MuST-Cinema: a Speech-to-Subtitles Corpus}”,
+booktitle = “Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020)”,
+year = “2020”,
+address = “Marseille, France”,
+month = “May 13-15”}
+```
 
 ## Licence
 TED talks are copyrighted by TED Conference LLC and licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0.
